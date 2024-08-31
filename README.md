@@ -100,7 +100,7 @@ Estou em constante aprimoramento na área de análise de dados:
 ## 🌍 **Vamos Conectar?**
 <div align="center">
   
-[LinkedIn](https://www.linkedin.com/in/thaiana-silva) | [GitHub](https://github.com/thaiana-silva) | [Email](mailto:thaianacelia@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/thaiana-silva) | [Email](mailto:thaianacelia@gmail.com)
 
 </div>
 
