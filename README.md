@@ -1,17 +1,23 @@
-# 👋 Olá, Eu sou a Thai! :D
-
 <div align="center">
+  
+![Beige Simple Elegant Personal LinkedIn Banner (2)](https://github.com/user-attachments/assets/79c0d6e9-315e-4b43-9a09-258ef605d910)
+
+# 👋 Olá, Eu sou a Thaiana! :D
+
   
 [![LinkedIn](https://img.shields.io/badge/-Thaiana%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaiana-silva/)](https://www.linkedin.com/in/thaiana-silva/)
 [![Email](https://img.shields.io/badge/-thaianacelia@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thaianacelia@gmail.com)](mailto:thaianacelia@gmail.com)
 
 </div>
 
-
+<div align="justify">
 
 Sou uma Desenvolvedora Full Stack apaixonada por tecnologia e por utilizar meus conhecimentos para criar soluções inovadoras e impactantes. Minha jornada na programação começou quando descobri o poder transformador da tecnologia durante minha carreira no setor financeiro. Desde então, venho expandindo meus conhecimentos e habilidades, tanto em desenvolvimento frontend quanto backend, além de explorar o campo de análise de dados.
 
----
+
+
+</div>
+
 
 ## 🌟 Áreas de Estudo e Expertise
 
