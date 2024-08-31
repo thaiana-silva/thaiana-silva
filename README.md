@@ -72,21 +72,6 @@ Estou em constante aprimoramento na área de análise de dados:
 - **Design de Interfaces**: Figma
 - **Implantação**: Vercel
 
-## 📚 **Projetos em Destaque**
-
-### [RapiMed](https://github.com/RapiMed/rapimed)
-Plataforma de e-commerce para cuidados básicos de saúde voltada para comunidades vulneráveis.
-- **Tecnologias**: Java, Spring Boot, MySQL, PostgreSQL, JavaScript, React, Tailwind CSS.
-
-### [Blog Pessoal](https://github.com/thaiana-silva/blog-pessoal)
-Uma plataforma interativa de blog que permite a criação de temas e postagens.
-- **Tecnologias**: Java, Spring Boot, MySQL, PostgreSQL, JavaScript, React, Tailwind CSS.
-
-### [Farmácia Generation](https://github.com/thaiana-silva/farmacia-generation)
-Aplicação de conhecimentos em HTML, CSS, JavaScript, TypeScript, React e Tailwind.
-- **Tecnologias**: JavaScript, React, Tailwind CSS.
-
-
 
 ## 🎓 **Educação e Formação**
 - **Tecnólogo em Ciência de Dados** - Infnet (07/2026)
